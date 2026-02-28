@@ -25,7 +25,7 @@ pip install --upgrade pip
 pip install numpy scikit-learn torch
 pip install dgl -f https://data.dgl.ai/wheels/repo.html
 
-
+```
 If you find this repo useful for your research, please consider citing our paper.
 
 ### BibTeX
@@ -38,3 +38,4 @@ If you find this repo useful for your research, please consider citing our paper
   doi     = {10.64898/2026.02.21.707210},
   url     = {https://www.biorxiv.org/content/10.64898/2026.02.21.707210v1}
 }
+``
